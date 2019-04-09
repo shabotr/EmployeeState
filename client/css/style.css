@@ -1,0 +1,11 @@
+.dashboard {
+  margin-top: 7rem;
+}
+
+.login {
+  margin: 7rem auto;
+  width: 90%;
+  background-color: rgba(0,0,0,0.1);
+  padding: 1.5rem;
+  border-radius: 10px;
+}
